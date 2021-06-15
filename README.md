@@ -1,5 +1,5 @@
 # awnn
-Implementing neural networks on maix-ii dock based on Allwinner v831 SoC.
+Implementing neural networks on maix-ii dock based on Allwinner v831 SoC. (not completed yet)
 
 
 To run neural network on Allwinner, whether it's written on tensorflow, pytorch, keras or any other framework, neural network needs conversion to awnn format, e.g. pytorch -> onnx -> ncnn -> awnn. Here, conversion of pytorch -> awnn is explaned. 
