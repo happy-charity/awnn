@@ -9,3 +9,4 @@ When conversion completed, you get param and bin files. This is similar to weigh
 
 
 image annotations and labeling tools --->>  https://datascience.stackexchange.com/questions/14039/tool-to-label-images-for-classification
+                                            https://www.cloudfactory.com/image-annotation-guide
