@@ -6,3 +6,4 @@ To run neural network on Allwinner, whether it's written on tensorflow, pytorch,
 
 When conversion completed, you get param and bin files. This is similar to weights and config files in yolo. Bin file is not readable, because it is binary file as obvious, but from param file you can get information about the neural networks' layers. This link shows explains structure of param file https://github.com/Tencent/ncnn/wiki/param-and-model-file-structure. But reading this structure from param file is tough. So, you can upload param file to https://netron.app/ and get graphical representation of neural network layers. From the graph, you can find output layer for further usage.
 
+For multithreading, use https://github.com/rktayal/multithreaded_frame_reading   imutils
